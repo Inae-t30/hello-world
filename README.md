@@ -1,5 +1,4 @@
 # hello-world
-my first repository
 
 Hi I'm Inae who is new programmer
 I'm 23 in 2019
